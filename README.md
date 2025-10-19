@@ -1,9 +1,15 @@
-#Sobre
+#  Los Corazones Unidos
 
-Los Corazones Unidos é uma ONG dedicada a transformar vidas de crianças com cardiopatias congênitas e oferecer suporte integral às suas famílias. Sabemos que o diagnóstico de uma doença cardíaca pode ser um momento de medo e incerteza, e é por isso que nossa missão vai além do cuidado médico: acolhemos, orientamos e caminhamos junto com cada família, oferecendo apoio emocional, social e educativo.
+## 🩺 Sobre
 
-Nosso trabalho é pautado no amor, na solidariedade e na esperança. Acreditamos que cada criança merece uma vida plena e cada família merece sentir-se amparada em todos os momentos. Por meio de projetos, atividades, palestras e acompanhamento contínuo, buscamos criar uma rede de suporte que une corações e fortalece vidas.
+**Los Corazones Unidos** é uma ONG dedicada a transformar vidas de crianças com **cardiopatias congênitas** e oferecer **suporte integral às suas famílias**.  
+Sabemos que o diagnóstico de uma doença cardíaca pode ser um momento de medo e incerteza, e é por isso que nossa missão vai além do cuidado médico: **acolhemos, orientamos e caminhamos junto com cada família**, oferecendo apoio **emocional, social e educativo**.
 
+Nosso trabalho é pautado no **amor, na solidariedade e na esperança**.  
+Acreditamos que **cada criança merece uma vida plena** e que **cada família merece sentir-se amparada** em todos os momentos.  
+Por meio de **projetos, atividades, palestras e acompanhamento contínuo**, buscamos criar uma **rede de suporte que une corações e fortalece vidas.**
+
+---
 
 <img width="1907" height="918" alt="image" src="https://github.com/user-attachments/assets/d672d488-58c1-4780-84aa-f6ab4b016747" />
 
