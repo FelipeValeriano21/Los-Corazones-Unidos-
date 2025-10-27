@@ -12,12 +12,11 @@ Esta é a entrega da **Atividade 02**, desenvolvida com foco em **estilização 
    <img width="1907" height="952" alt="image" src="https://github.com/user-attachments/assets/86381ce6-cb7e-417c-ba94-f4ba309ed368" />
 
 
-3. **Responsividade**
+2. **Responsividade**
+
+<img width="611" height="775" alt="image" src="https://github.com/user-attachments/assets/92ffc437-7218-4b02-a63d-3f4fc8e25ba5" />
+
+3. **Boas práticas**
 
    <img width="797" height="313" alt="image" src="https://github.com/user-attachments/assets/8aa2bc42-b952-4174-aba0-64d15ebe4770" />
-
-
-4. **Boas práticas**
-
-![Uploading image.png…]()
 
