@@ -70,6 +70,7 @@ a.text-white:hover {
 .formulario {
 
   border: 1px solid var(--cores-titulos);
+  padding: 50px;
 
 }
 
@@ -85,7 +86,7 @@ a.text-white:hover {
 
 @media (max-width: 576px) {
   footer {
-    font-size: 11px;
+    font-size: 5px;
   }
 
   main {
@@ -102,12 +103,31 @@ p {
   font-size: small;
 }
 
+  #tabela-local{
+
+    font-size: 5px;
+
+  }
+
+  #alerta {
+
+    font-size: 15px;
+
+  }
+
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
    footer {
     font-size: 14px;
   }
+
+  #tabela-local{
+
+    font-size: 7px;
+
+  }
+
 }
 
 .card:hover {

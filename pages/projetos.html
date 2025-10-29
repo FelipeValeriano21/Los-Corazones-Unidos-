@@ -11,7 +11,7 @@
     crossorigin="anonymous"
   >
 
-  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../Style/style.css">
 
   <link
     rel="stylesheet"
@@ -23,24 +23,38 @@
 
 <body class="d-flex flex-column min-vh-100">
 
-  <header>
-    <nav class="navbar navbar-expand-lg colorredtheme">
-      <div class="container">
-        <a class="navbar-brand text-white fw-bold" href="../index.html">Los Corazones Unidos 🫀</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-          <div class="navbar-nav">
-            <a class="nav-link text-black" href="projetos.html">Quem somos</a>
-            <a class="nav-link text-white" href="cadastro.html">Quero fazer parte</a>
-               <a class="nav-link text-white" href="localizacao.html">Localização</a>
-          </div>
-        </div>
+<header>
+  <nav class="navbar navbar-expand-lg navbar-dark colorredtheme">
+    <div class="container">
+      <a class="navbar-brand fw-bold" href="../index.html">Los Corazones Unidos 🫀</a>
+      
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link text-white" href="projetos.html">Quem somos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="localizacao.html">Localização</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Fazer ações
+            </a>
+            <ul class="dropdown-menu dropdown-menu-end">
+              <li><a class="dropdown-item" href="cadastro.html" onclick="mostrarTela('form')">Novo Cadastro</a></li>
+              <li><a class="dropdown-item" href="#" onclick="mostrarTela('tabela')">Lista de Cadastros</a></li>
+            </ul>
+          </li>
+        </ul>
       </div>
-    </nav>
-  </header>
+    </div>
+  </nav>
+</header>
 
   <main class="container my-5 flex-grow-1">
     <div class="text-center p-3">

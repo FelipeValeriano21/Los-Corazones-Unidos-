@@ -11,7 +11,7 @@
     crossorigin="anonymous"
   >
 
-  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../Style/style.css">
 
   <link
     rel="stylesheet"
@@ -24,111 +24,45 @@
 
 <body class="d-flex flex-column min-vh-100">
 
-  <header>
-    <nav class="navbar navbar-expand-lg colorredtheme">
-      <div class="container">
-        <a class="navbar-brand text-white fw-bold" href="../index.html">Los Corazones unidos 🫀</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" 
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-          <div class="navbar-nav">
-            <a class="nav-link text-white" href="projetos.html">Quem somos</a>
-            <a class="nav-link text-white" href="cadastro.html">Quero fazer parte</a>
-            <a class="nav-link text-black" href="localizacao.html">Localização</a>
-       
-          </div>
-        </div>
+<header>
+  <nav class="navbar navbar-expand-lg navbar-dark colorredtheme">
+    <div class="container">
+      <a class="navbar-brand fw-bold" href="../index.html">Los Corazones Unidos 🫀</a>
+      
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="projetos.html">Quem somos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="localizacao.html">Localização</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Fazer ações
+            </a>
+            <ul class="dropdown-menu dropdown-menu-end">
+              <li><a class="dropdown-item" href="cadastro.html" onclick="mostrarTela('form')">Novo Cadastro</a></li>
+              <li><a class="dropdown-item" href="#" onclick="mostrarTela('tabela')">Lista de Cadastros</a></li>
+            </ul>
+          </li>
+        </ul>
       </div>
-    </nav>
-  </header>
+    </div>
+  </nav>
+</header>
 
   <main class="container my-3 flex-grow-1">
     <div class="text-center p-5">
       <h2 class="animate__animated animate__tada">Lugares que atendemos</h2>
     </div>
     
-<table class="table">
-  <tr>
-    <th>País</th>
-    <th>Gestor</th>
-    <th>Telefone</th>
-    <th>E-mail</th>
-    <th>Endereço</th>
-  </tr>
-  <tr>
-    <td>Brasil</td>
-    <td>Maria Silva</td>
-    <td>+55 11 91234-5678</td>
-    <td>maria.silva@oncoração.org.br</td>
-    <td>Av. Paulista, 1000, São Paulo, SP</td>
-  </tr>
-  <tr>
-    <td>Estados Unidos</td>
-    <td>Francisco Chang</td>
-    <td>+1 202-555-0143</td>
-    <td>francisco.chang@heartcare.org</td>
-    <td>123 Main St, Washington, DC</td>
-  </tr>
-  <tr>
-    <td>Argentina</td>
-    <td>Juan Pérez</td>
-    <td>+54 11 4321-8765</td>
-    <td>juan.perez@corazon.org.ar</td>
-    <td>Calle Florida 500, Buenos Aires</td>
-  </tr>
-  <tr>
-    <td>Chile</td>
-    <td>Ana Gómez</td>
-    <td>+56 2 2345-6789</td>
-    <td>ana.gomez@cardiochile.cl</td>
-    <td>Av. Providencia 200, Santiago</td>
-  </tr>
-  <tr>
-    <td>Uruguai</td>
-    <td>Carlos Rodríguez</td>
-    <td>+598 99 123 456</td>
-    <td>carlos.rodriguez@hearturuguay.uy</td>
-    <td>Rambla 1234, Montevidéu</td>
-  </tr>
-  <tr>
-    <td>Peru</td>
-    <td>Lucia Fernández</td>
-    <td>+51 1 987 654 321</td>
-    <td>lucia.fernandez@oncorrperu.pe</td>
-    <td>Av. Arequipa 456, Lima</td>
-  </tr>
-  <tr>
-    <td>Colômbia</td>
-    <td>Diego Martinez</td>
-    <td>+57 1 345 6789</td>
-    <td>diego.martinez@heartcolombia.co</td>
-    <td>Calle 72 #10-20, Bogotá</td>
-  </tr>
-  <tr>
-    <td>Equador</td>
-    <td>Isabela Torres</td>
-    <td>+593 2 345 6789</td>
-    <td>isabela.torres@corazon.ec</td>
-    <td>Av. Amazonas 100, Quito</td>
-  </tr>
-  <tr>
-    <td>Paraguai</td>
-    <td>José López</td>
-    <td>+595 21 123 456</td>
-    <td>jose.lopez@heartparaguay.py</td>
-    <td>Calle Mariscal López 200, Assunção</td>
-  </tr>
-  <tr>
-    <td>Bolívia</td>
-    <td>Fernanda Castro</td>
-    <td>+591 2 987 6543</td>
-    <td>fernanda.castro@oncora.bol</td>
-    <td>Calle Murillo 50, La Paz</td>
-  </tr>
-</table>
-
+<div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=avenida%20paulista%201000+(Ong%20Los%20corazones%20Unidos)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.mapsdirections.info/it/calcola-la-popolazione-su-una-mappa/">mappa della popolazione Italia</a></iframe></div>
   </main>
 
   <footer class="colorredtheme text-white text-center py-3 mt-auto">

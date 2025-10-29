@@ -1,0 +1,3 @@
+• Domínio de manipulação do DOM, eventos, armazenamento local e integração com frameworks, criando funcionalidades que simulem uma aplicação real. Especificações Técnicas Obrigatórias 
+
+• Manipulação do DOM Implementar sistema de Single Page Application (SPA) básico; Criar sistema de templates JavaScript.
