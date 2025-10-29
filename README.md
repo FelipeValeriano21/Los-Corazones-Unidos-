@@ -28,7 +28,7 @@ Esta é a entrega da **Atividade 03**, desenvolvida com foco em **SPA** e **vali
 
 4. **Delete de usuario**
    
-  - Dentro do conteudo de usuarios registrados pode-se excluir por meio do botão "trash" um voluntario da lista
+  - Dentro do conteudo de usuarios registrados pode-se excluir por meio do botão "excluir" um voluntario da lista
 
     ![Captura de tela 2025-10-28 211632](https://github.com/user-attachments/assets/ddc18e11-beba-419e-87e7-9e4c24fd6a6e)
     
