@@ -1,6 +1,6 @@
 # Entrega Final - Los Corazones Unidos 🫀
 
-Link site: 
+Link site: https://felipevaleriano21.github.io/Los-Corazones-Unidos-/
 
 **Descrição:**  
 Los Corazones Unidos é uma aplicação web desenvolvida para conectar voluntários a projetos de apoio a crianças com cardiopatias congênitas.  
@@ -39,7 +39,7 @@ Este projeto faz parte da disciplina *Desenvolvimento Web I* e evoluiu ao longo 
 * **Form validation**✅
 * **GitHub Actions configurado para build + deploy**✅
 * **README completo e atualizado**✅
-* **Deploy publicado com sucesso**✅
+* **Deploy publicado com sucesso**✅ 
 
 
 <img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/08f46806-c5aa-4b67-acdb-c34acb16c8b2" />
