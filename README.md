@@ -25,31 +25,6 @@ Este projeto faz parte da disciplina *Desenvolvimento Web I* e evoluiu ao longo 
 
 ---
 
-## 🧩 Estrutura do Projeto
-
-│
-├── index.html
-├── pages/
-│ ├── cadastro.html
-│ ├── localizacao.html
-│ └── projetos.html
-│
-├── JS/
-│ ├── mascaras.js
-│ ├── listagem-voluntarios.js
-│
-├── Style/
-│ └── style.css
-│
-├── Especificacoes-Atividades/
-│ ├── Atv01.txt
-│ ├── Atv02.txt
-│ ├── Atv03.txt
-│ └── Atv04.txt
-│
-└── README.md
-
-
 <img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/08f46806-c5aa-4b67-acdb-c34acb16c8b2" />
 
 <img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/95e0cbf4-fb59-4338-b658-b33332e76ca4" />
@@ -61,6 +36,12 @@ Este projeto faz parte da disciplina *Desenvolvimento Web I* e evoluiu ao longo 
 <img width="1918" height="1032" alt="image" src="https://github.com/user-attachments/assets/2d0f69f3-8cc4-4f2d-aeee-6f9366e39faa" />
 
 <img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/6df55c15-f4d4-4513-92e5-b7352e881cea" />
+
+<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/05f68ebe-5697-4d30-a675-05f87e292736" />
+
+<img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/700c0716-f01b-4e8f-a7e4-9e13f506fd9c" />
+
+
 
 
 
