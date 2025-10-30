@@ -136,3 +136,43 @@ p {
 }
 
 
+body.dark-mode {
+  background-color: #121212;
+  color: #f1f1f1;
+}
+
+body.dark-mode .navbar {
+  background-color: #1f1f1f !important;
+}
+
+body.dark-mode .dropdown-menu {
+  background-color: #2a2a2a;
+  border: none;
+}
+
+body.dark-mode .dropdown-item {
+  color: #f1f1f1;
+}
+
+body.dark-mode .dropdown-item:hover {
+  background-color: #444;
+}
+
+body.dark-mode footer {
+  background-color: #1f1f1f;
+}
+
+body.dark-mode .btn {
+  border-color: #ccc;
+}
+
+body.dark-mode .btn:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+p.dark-mode {
+
+  color: white;
+
+}
