@@ -25,6 +25,33 @@ Este projeto faz parte da disciplina *Desenvolvimento Web I* e evoluiu ao longo 
 
 ---
 
+
+## Checklist
+
+ Repositório criado no GitHub
+ 
+ main + entregas branch criadas
+ 
+ Commit messages usando Conventional Commits
+
+ HTML semântico
+
+ Skip link e foco visível
+
+ Inputs com labels e aria-describedby para erros
+
+ Modo escuro implementado
+
+ Keyboard navigation testado
+
+ Form validation
+
+ GitHub Actions configurado para build + deploy
+
+ README
+
+ Deploy publicado
+
 <img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/08f46806-c5aa-4b67-acdb-c34acb16c8b2" />
 
 <img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/95e0cbf4-fb59-4338-b658-b33332e76ca4" />
